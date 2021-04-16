@@ -1,16 +1,20 @@
-### Hi there 👋
+# four
 
-<!--
-**summrsW/summrsW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi am four owner of summrs and pro python  ~~skid~~ coder
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if u need help w/ smth just pm me on cord xo#3424
+
+
+⚰️
+
+
+# Basic Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summrsW&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </br>
+[![4CZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=summrsW&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+- four & lxi fourever
+
+# Profile Views
+
+![views](https://komarev.com/ghpvc/?username=Imaoo&label=views&color=0e75b6&style=flat)
